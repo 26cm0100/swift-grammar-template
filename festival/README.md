@@ -18,7 +18,8 @@
 
 ## 画面
 
-![アプリの画面](screen1.png)<br  >
+![アプリの画面](screen1.png)<br >
+<img width="1206" height="2622" alt="screen1" src="https://github.com/user-attachments/assets/7e092613-e3a4-4e51-ad14-e5c5453d5829" />
 （スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
 
 ## 使った文法・技術
