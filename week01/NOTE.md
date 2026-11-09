@@ -1,14 +1,14 @@
 # week01 型と制御構文の再確認、配列・辞書・範囲
 
-> **氏名：** （自分の名前）
-> **最終更新：** YYYY-MM-DD
+> **氏名：** 安住光司
+> **最終更新：** 2026-11-09
 > **AI利用レベル：** 演習は 2（生成コード可・4点セット必須）
-> **リファレンス：** swift-grammar-code の `reference/01_basics.md`
+> **リファレンス：** swift-grammar-code の [`reference/01_basics.md`] https://github.com/NakasenJEC/swift-grammar-code/blob/main/reference/01_basics.md
 
 ---
 
 ## 1. 教材コードで読めたこと（3行）
-
+> - "swift"でコンパイルするXcodeのバージョンが判明する条件付きコンパイルの条件名(例)swift、os、arch
 （月曜に教材コードの「読む」と書かれている部分を読んで分かったことを、自分の言葉で3行。例：「`let` は一度決めたら変えられない。`var` は変えられる。Java の `final` に近いが、Swift では `let` が基本」）
 
 ## 2. 演習の記録（4点セット）
