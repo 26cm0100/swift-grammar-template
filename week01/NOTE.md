@@ -1,22 +1,22 @@
 # week01 型と制御構文の再確認、配列・辞書・範囲
 
-> **氏名：** 安住光司  
-> **最終更新：** 2026-11-09  
-> **AI利用レベル：** 演習は 2（生成コード可・4点セット必須）  
-> **リファレンス：** swift-grammar-code の [`reference/01_basics.md`](https://github.com/NakasenJEC/swift-grammar-code/blob/main/reference/01_basics.md)
+- **氏名：** 安住光司  
+- **最終更新：** 2026-11-09  
+- **AI利用レベル：** 演習は 2（生成コード可・4点セット必須）  
+- **リファレンス：** swift-grammar-code の [`reference/01_basics.md`](https://github.com/NakasenJEC/swift-grammar-code/blob/main/reference/01_basics.md)
 
 ---
 
 ## 1. 教材コードで読めたこと（3行）
-> - "swift"の意味 
-コンパイルするXcodeのバージョンが判明する条件付きコンパイルの条件名(swift、os、arch)  
-> - 文字の連結
-"文字列 , 変数名"と、文字列の中に”\(変数名)"で変数を差し込むことができる  
-例：print("演習1のデバッグ", passers)  
-　　print("\(i + 1)番 \(names[i]) \(scores[i]) 点")  
-> - 配列への末尾追加
-配列名.append(i)  
-例：failersの末尾に氏名を追加 → failers.append(names[i])  
+- **"swift"の意味** 
+  - コンパイルするXcodeのバージョンが判明する条件付きコンパイルの条件名(swift、os、arch)
+- **文字の連結**
+  - "文字列 , 変数名"と、文字列の中に”\(変数名)"で変数を差し込むことができる  
+  - 例：print("演習1のデバッグ", passers)
+  - print("\(i + 1)番 \(names[i]) \(scores[i]) 点")  
+- **配列への末尾追加**
+  - 配列名.append(i)
+  - 例：failersの末尾に氏名を追加 → failers.append(names[i])  
 
 ## 2. 演習の記録（4点セット）　　
 ### 演習1：（演習の名前）
